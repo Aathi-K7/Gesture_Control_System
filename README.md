@@ -34,6 +34,6 @@ This project implements a real-time hand gesture recognition system using Raspbe
 - Project images
 
 ## 👨‍💻 Author
-Aathikesavan
-Manju shree
-kavineshan
+Aathikesavan, 
+Manju shree, 
+kavineshan.
